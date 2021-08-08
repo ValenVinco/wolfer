@@ -205,7 +205,7 @@ li .logo{
     padding-top:20px;
     margin: 1.25em;
     display: grid;
-    width: max-content;
+    width: 350px;
     grid-template-columns: 1fr;
     grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     grid-template-areas:
