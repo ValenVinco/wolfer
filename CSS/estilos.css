@@ -28,7 +28,7 @@ body {
   grid-template-areas:
             "Menu Menu Menu"
             "Texto Texto Slider"
-            "Footer Footer Footer";
+            ;
 }
 
 .contenedor > div,
