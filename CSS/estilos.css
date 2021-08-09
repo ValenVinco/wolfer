@@ -182,11 +182,11 @@ body {
     grid-column: 1/-1;
     background-color: #202020;
     text-align: center;
-    display: center;
+    display:;
     align-items: center;
-    justify-content: center;
-    width: 320px;
-    grid-row: 1/-1;
+    justify-content: ;
+    width: 310px;
+    grid-row: -1/-1;
     align-self: end;
   }
   .contenedor .Menu{
