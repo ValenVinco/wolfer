@@ -105,15 +105,16 @@ textarea{
     grid-column: 1/-1;
     width: 60% 
   }
-   .input,textarea {
-    width: 45%;
-    margin-bottom: 2px;
-    padding: 4x;
+form {
+    width: 310px;
+    margin: auto;
+    background: #202020;
+    padding: 10px 15px;
     box-sizing: border-box;
-    font-size: 8x;
-    border: none;
-
-}
+    margin-top: 35px;
+    border-radius: 8px;
+    font-size:8px;
+    }
   .contenedor .Menu{
     grid-column: 1/-1
   }
