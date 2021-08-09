@@ -82,11 +82,13 @@ body {
     color:#ffffff;
     text-decoration: none;
 }
+
 .Texto{
   width: 510px;
   color: white;
   text-decoration: none;
 }
+
 .Texto p{
   margin: 4px;
   width: 0 0 5px 0;
@@ -102,7 +104,6 @@ body {
     padding: 1.25rem;
     color: #ffff;
 }
-
 
 .contenedor .Slider {
   grid-column: 2/3;
@@ -339,12 +340,13 @@ li .logo{
                       "Slider";
                       }
         .Menu ul, li{
-                font-size: 8px;
-		width:310px;
+                font-size: 0.9rem;
+		;
           }
           
         .Texto{
-         font-size: 0.9rem;}
+         font-size: 9px;
+	 width:310px;
           
 	}
    }
