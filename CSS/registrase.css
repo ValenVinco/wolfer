@@ -99,3 +99,13 @@ textarea{
 	max-height: 200px;
 	max-width: 100%;
 }
+
+@media screen and (max-width: 768px) {
+  .contenedor .registrarse {
+    grid-column: 1/-1;
+    width: 60% 
+  }
+  .contenedor .Menu{
+    grid-column: 1/-1
+  }
+} 
