@@ -124,6 +124,8 @@ form {
     border-radius: 8px;
     font-size:8px;
     }
+	
+	
   .contenedor .Menu{
     grid-column: 1/-1
   }
