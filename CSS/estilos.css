@@ -174,7 +174,8 @@ body {
   .contenedor .Texto {
     grid-column: 1/-1;
     align-self: end;
-    font-size: 13px;
+    font-size: 9px;
+    width:310px;
 
     
   }
@@ -343,11 +344,5 @@ li .logo{
                 font-size: 0.9rem;
 		;
           }
-          
-        .Texto{
-         font-size: 9px;
-	 width:310px;
-          
-	}
    }
 
