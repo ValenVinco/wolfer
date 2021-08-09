@@ -24,7 +24,7 @@ body {
   display: grid;
   grid-gap: 20px;
   grid-template-columns: repeat(2, auto);
-  grid-template-rows: repeat(2, auto);
+  grid-template-rows: repeat(3, auto);
 }
 
 .contenedor > div,
@@ -78,14 +78,11 @@ body {
     color:#ffffff;
     text-decoration: none;
 }
-
 .Texto{
   width: 510px;
   color: white;
   text-decoration: none;
-  font-family: 'Roboto', sans-serif;
 }
-
 .Texto p{
   margin: 4px;
   width: 0 0 5px 0;
@@ -102,6 +99,7 @@ body {
     color: #ffff;
 }
 
+
 .contenedor .Slider {
   grid-column: 2/3;
   background-color: #202020;
@@ -115,7 +113,7 @@ body {
 
 .Slider {
   width: 500px;
-  margin: 0;
+  margin: auto;
   overflow: hidden;
   position: right;
 }
@@ -166,7 +164,6 @@ body {
 .contenedor .Texto {
   grid-column: 1/2;
 }
-
 @media screen and (max-width: 768px) {
 	
 	contenedor .Slider {
