@@ -218,7 +218,11 @@ li .logo{
 }
 
 
-@media( max-width: 480px){
+@media( max-width: 768px){
+		.Menu{
+		    font-size: 0.8rem;
+		    width:310px;
+		  }
 		form{
 			width: 100%
 		}
