@@ -173,28 +173,28 @@ body {
     align-self: end;
     font-size: 9px;
     width:310px;
+	  }
 	.Menu{
 	    font-size: 0.8rem;
 	    width:310px;
 	  }
-    
-  }
+	    .contenedor .Slider {
+	    grid-column: 1/-1;
+	    background-color: #202020;
+	    text-align: center;
+	    display:;
+	    align-items: center;
+	    justify-content: ;
+	    width: 310px;
+	    grid-row: -1/-1;
+	    align-self: end;
+	  }
+	  .contenedor .Menu{
+	    grid-column: 1/-1;
+	    font-size: 13px;
+	}
 
-    .contenedor .Slider {
-    grid-column: 1/-1;
-    background-color: #202020;
-    text-align: center;
-    display:;
-    align-items: center;
-    justify-content: ;
-    width: 310px;
-    grid-row: -1/-1;
-    align-self: end;
   }
-  .contenedor .Menu{
-    grid-column: 1/-1;
-    font-size: 13px;
-}
 
 footer{
     width: 100%;
