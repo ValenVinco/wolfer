@@ -117,7 +117,7 @@ body {
 
 .Slider {
   width: 500px;
-  margin: auto;
+  margin: 0;
   overflow: hidden;
   position: right;
 }
@@ -339,7 +339,8 @@ li .logo{
                       "Slider";
                       }
         .Menu ul, li{
-        font-size: 0.7rem;
+                font-size: 8px;
+		width:310px;
           }
           
         .Texto{
