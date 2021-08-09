@@ -164,7 +164,7 @@ body {
 .contenedor .Texto {
   grid-column: 1/2;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 768px){
 	
 	.contenedor .Slider {
 			    grid-column: 1/-1;
@@ -181,7 +181,7 @@ body {
 			    grid-column: 1/-1;
 			    font-size: 13px;
 			}
-			Menu{
+		.Menu{
 			    font-size: 0.8rem;
 			    width:310px;
 			  }
@@ -192,6 +192,7 @@ body {
 		    font-size: 9px;
 		    width:310px;
 			  }
+	
 		.
   }
 
