@@ -99,7 +99,13 @@ textarea{
     max-height: 200px;
     max-width: 100%;
 }
-.btn-warning{
-    background-color: red;
-    border-color: red;
-}
+
+@media screen and (max-width: 768px) {
+  .contenedor .Login {
+    grid-column: 1/-1;
+    width: 60% 
+  }
+  .contenedor .Menu{
+    grid-column: 1/-1
+  }
+} 
