@@ -199,6 +199,10 @@ li .logo{
 }
 
 @media screen and (max-width: 768px){
+.Menu{
+    font-size: 0.8rem;
+    width:310px;
+  }
 .gridArticulosIndex{
     align-content: center center;
     align-items:  center center;
