@@ -105,7 +105,7 @@ textarea{
     grid-column: 1/-1;
     width: 60% 
   }
-.input .textarea {
+input ,textarea {
     width: 45%;
     margin-bottom: 2px;
     padding: 4x;
@@ -114,6 +114,16 @@ textarea{
     border: none;
 
 }
+form {
+    width: 310px;
+    margin: auto;
+    background: #202020;
+    padding: 10px 15px;
+    box-sizing: border-box;
+    margin-top: 35px;
+    border-radius: 8px;
+    font-size:8px;
+    }
   .contenedor .Menu{
     grid-column: 1/-1
   }
