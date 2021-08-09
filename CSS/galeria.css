@@ -219,13 +219,17 @@ li .logo{
             "article"
             "article";
     grid-row-gap: 10px;
-    margin-left: 40px;
+    margin-left: 40px;	
 
 }
+	.Menu ul, li{
+	  font-size: 0.7rem;
+	}
+		
 }
 .gridArticulosIndex img{
-  width: 400px;
-  height: 400px;
+  width: 250px;
+  height: 250px;
 }
 
 @media(max-width: 600px;){
