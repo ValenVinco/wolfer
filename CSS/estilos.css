@@ -166,7 +166,7 @@ body {
 }
 @media screen and (max-width: 768px) {
 	
-	contenedor .Slider {
+	.contenedor .Slider {
 			    grid-column: 1/-1;
 			    background-color: #202020;
 			    text-align: center;
