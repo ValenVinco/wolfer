@@ -105,6 +105,15 @@ textarea{
     grid-column: 1/-1;
     width: 60% 
   }
+  input ,textarea {
+    width: 45%;
+    margin-bottom: 2px;
+    padding: 4x;
+    box-sizing: border-box;
+    font-size: 8x;
+    border: none;
+
+}
 form {
     width: 310px;
     margin: auto;
